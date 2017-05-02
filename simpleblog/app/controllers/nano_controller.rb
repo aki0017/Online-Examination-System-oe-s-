@@ -1,0 +1,2 @@
+class NanoController < ApplicationController
+end
